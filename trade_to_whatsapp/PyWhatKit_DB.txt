@@ -1,0 +1,176 @@
+Date: 15/2/2025
+Time: 22:32
+Phone Number: +972527270145
+Message: hi
+--------------------
+Date: 15/2/2025
+Time: 22:35
+Phone Number: +972505805678
+Message: mar7aba dod
+--------------------
+Date: 15/2/2025
+Time: 22:36
+Phone Number: +972505805678
+Message: mar7aba dod
+--------------------
+Date: 15/2/2025
+Time: 22:37
+Phone Number: +972505805678
+Message: mar7aba dod
+--------------------
+Date: 15/2/2025
+Time: 22:53
+Phone Number: My_adeli
+Message: SPY: -0.0%TSLA: -0.03%BTCUSD: -0.01%VIX: -2.05%
+--------------------
+Date: 15/2/2025
+Time: 22:57
+Group ID: Kc3r6tZMOG1HlTRZVNKqib
+Message: SPY: -0.0%TSLA: -0.03%BTCUSD: 0.05%VIX: -2.05%
+--------------------
+Date: 15/2/2025
+Time: 23:1
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Message: SPY: -0.0%TSLA: -0.03%BTCUSD: 0.13%VIX: -2.05%
+--------------------
+Date: 15/2/2025
+Time: 23:16
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Message: SPY: -0.0%TSLA: -0.03%BTCUSD: 0.2%VIX: -2.05%
+--------------------
+Date: 18/2/2025
+Time: 15:55
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Message: caption
+--------------------
+Date: 18/2/2025
+Time: 16:1
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Message: completed_img.png
+--------------------
+Date: 18/2/2025
+Time: 16:7
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Image: completed_img.png
+Caption: שלום חברים, עדכון מצב שוק!
+--------------------
+Date: 18/2/2025
+Time: 16:8
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Image: completed_img.png
+Caption: Market summary!
+--------------------
+Date: 18/2/2025
+Time: 16:10
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Image: completed_img.png
+Caption: Market summary:18/02/25
+--------------------
+Date: 18/2/2025
+Time: 16:31
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market summary: 18/02/25
+--------------------
+Date: 18/2/2025
+Time: 16:32
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market summary!
+--------------------
+Date: 18/2/2025
+Time: 16:33
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market summary!
+--------------------
+Date: 18/2/2025
+Time: 16:36
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Image: completed_img.png
+Caption: Market summary!
+--------------------
+Date: 18/2/2025
+Time: 23:2
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 18/2/2025
+Time: 23:2
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 19/2/2025
+Time: 19:59
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 19/2/2025
+Time: 22:33
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 24/2/2025
+Time: 17:48
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Open!
+--------------------
+Date: 24/2/2025
+Time: 17:48
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Open!
+--------------------
+Date: 24/2/2025
+Time: 17:51
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Open!
+--------------------
+Date: 25/2/2025
+Time: 16:59
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Open!
+--------------------
+Date: 25/2/2025
+Time: 17:1
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Open!
+--------------------
+Date: 26/2/2025
+Time: 20:48
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 2/3/2025
+Time: 23:29
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 2/3/2025
+Time: 23:32
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 2/3/2025
+Time: 23:33
+Group ID: LJosUGk2M9A3vVaWt6io9K
+Image: completed_img.png
+Caption: Market Close!
+--------------------
+Date: 21/10/2025
+Time: 17:33
+Group ID: Bk4ur9E0oIx8wzuTBXsoTQ
+Image: completed_img.png
+Caption: Market Open!
+--------------------
